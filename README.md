@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafatbd currently a final year student of CSE at the Polytechnic University of Catalonia and aspiring to become a software devoloper 
+- 👋 Hi, I’m Rafat Alam Durjoy currently a final year student of CSE at the Polytechnic University of Catalonia and aspiring to become a software devoloper 
 - 👀 I’m interested in Network Administration, Software Development, Web and Android Apps Development and Cybersecurity.
 - 🌱 I’m currently learning Kotlin and DevOps 
 - 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/rafat-alam-durjoy-06753b138/), [Email](mailto:rafatinfo4@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) and also on Discord Rafat Alam Durjoy#7307
